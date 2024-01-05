@@ -52,7 +52,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ayungavis/schedule-app](https://github.com/ayungavis/schedule-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|42<br/>Tools used|12/14/23 <br/>Report generated|
+|44<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -234,9 +234,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (23)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -256,6 +256,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.1.4|11/22/20|Wahyu Adi Kurniawan |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.21.5|11/22/20|Wahyu Adi Kurniawan |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.2.0|11/22/20|Wahyu Adi Kurniawan |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.3.0|11/22/20|Wahyu Adi Kurniawan |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.1|11/22/20|Wahyu Adi Kurniawan |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.1|11/22/20|Wahyu Adi Kurniawan |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[next-auth](https://www.npmjs.com/next-auth)|v3.1.0|11/22/20|Wahyu Adi Kurniawan |N/A|[CVE-2022-35924](https://github.com/advisories/GHSA-xv97-c62v-4587) (Critical)<br/>[CVE-2022-31127](https://github.com/advisories/GHSA-pgjx-7f9g-9463) (High)<br/>[CVE-2023-27490](https://github.com/advisories/GHSA-7r7x-4c4q-c4qf) (High)<br/>[CVE-2022-31093](https://github.com/advisories/GHSA-g5fm-jp9v-2432) (High)<br/>[CVE-2023-48309](https://github.com/advisories/GHSA-v64w-49xw-qq89) (Moderate)<br/>[CVE-2022-24858](https://github.com/advisories/GHSA-f9wg-5f46-cjmw) (Moderate)<br/>[CVE-2022-29214](https://github.com/advisories/GHSA-q2mx-j4x2-2h74) (Moderate)<br/>[CVE-2022-31186](https://github.com/advisories/GHSA-p6mm-27gq-9v3p) (Low)<br/>[CVE-2021-21310](https://github.com/advisories/GHSA-pg53-56cg-4m8q) (Low)|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|11/22/20|Wahyu Adi Kurniawan |MIT|N/A|
